@@ -1,5 +1,5 @@
-# MNIST_Digit_Recognizer
-Handwritten Digit Recognition Using Machine Learnig Algrithms
+# MNIST Digit Recognizing 
+Handwritten Digit Recognition Using Convolutional Neural Networks and OpenCV
 
 We encorporate CNN along with standard Artificial Learning Networks for the classification of a set of Hand Written images to their corresponding digits.
 
